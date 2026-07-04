@@ -51,7 +51,8 @@ I regularly practice **Data Structures & Algorithms** to strengthen my problem-s
 
 Platforms:  
 - [LeetCode](https://leetcode.com/Vishwajeet_Singh_jii) 
-- [GeeksforGeeks](https://www.geeksforgeeks.org/user/vishwajeetsinghjii) 
+- [GeeksforGeeks](https://www.geeksforgeeks.org/user/vishwajeetsinghjii)
+- [CodeChef](https://www.codechef.com/users/vishwajeet_jii) 
 
 ---
 
